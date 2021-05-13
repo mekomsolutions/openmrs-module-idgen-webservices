@@ -4,7 +4,7 @@
     <parent>
         <groupId>org.openmrs.module</groupId>
         <artifactId>idgen-webservices</artifactId>
-        <version>1.3-SNAPSHOT</version>
+        <version>1.3-1.0.0</version>
     </parent>
 
     <artifactId>idgen-webservices-api</artifactId>
